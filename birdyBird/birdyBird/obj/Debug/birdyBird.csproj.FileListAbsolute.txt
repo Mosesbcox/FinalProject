@@ -1,0 +1,11 @@
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\birdyBird\birdyBird\bin\Debug\birdyBird.exe.config
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\birdyBird\birdyBird\bin\Debug\birdyBird.exe
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\birdyBird\birdyBird\bin\Debug\birdyBird.pdb
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\birdyBird\birdyBird\bin\Debug\test.dll
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\birdyBird\birdyBird\bin\Debug\test.pdb
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\birdyBird\birdyBird\obj\Debug\birdyBird.csprojResolveAssemblyReference.cache
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\birdyBird\birdyBird\obj\Debug\birdyBird.exe
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\birdyBird\birdyBird\obj\Debug\birdyBird.pdb
+C:\Users\wecancodeit\Documents\Visual Studios Projects\birdyBird\birdyBird\bin\Debug\birdyBird.exe.config
+C:\Users\wecancodeit\Documents\Visual Studios Projects\birdyBird\birdyBird\obj\Debug\birdyBird.exe
+C:\Users\wecancodeit\Documents\Visual Studios Projects\birdyBird\birdyBird\obj\Debug\birdyBird.pdb

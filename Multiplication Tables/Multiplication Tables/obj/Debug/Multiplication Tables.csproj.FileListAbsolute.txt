@@ -1,0 +1,6 @@
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\Multiplication Tables\Multiplication Tables\bin\Debug\Multiplication Tables.exe.config
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\Multiplication Tables\Multiplication Tables\bin\Debug\Multiplication Tables.exe
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\Multiplication Tables\Multiplication Tables\bin\Debug\Multiplication Tables.pdb
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\Multiplication Tables\Multiplication Tables\obj\Debug\Multiplication Tables.csprojResolveAssemblyReference.cache
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\Multiplication Tables\Multiplication Tables\obj\Debug\Multiplication Tables.exe
+C:\Users\wecancodeit\Desktop\Visual Studios Projects\Multiplication Tables\Multiplication Tables\obj\Debug\Multiplication Tables.pdb

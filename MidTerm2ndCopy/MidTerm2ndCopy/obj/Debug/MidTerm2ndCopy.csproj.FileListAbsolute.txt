@@ -1,0 +1,5 @@
+C:\Users\wecancodeit\Documents\Visual Studios Projects\MidTerm2ndCopy\MidTerm2ndCopy\bin\Debug\MidTerm2ndCopy.exe.config
+C:\Users\wecancodeit\Documents\Visual Studios Projects\MidTerm2ndCopy\MidTerm2ndCopy\bin\Debug\MidTerm2ndCopy.exe
+C:\Users\wecancodeit\Documents\Visual Studios Projects\MidTerm2ndCopy\MidTerm2ndCopy\bin\Debug\MidTerm2ndCopy.pdb
+C:\Users\wecancodeit\Documents\Visual Studios Projects\MidTerm2ndCopy\MidTerm2ndCopy\obj\Debug\MidTerm2ndCopy.exe
+C:\Users\wecancodeit\Documents\Visual Studios Projects\MidTerm2ndCopy\MidTerm2ndCopy\obj\Debug\MidTerm2ndCopy.pdb
